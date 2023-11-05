@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//Aga071.github.io/goit-react-hw-04-images/static/css/main.7acaea2f.css",
-    "main.js": "//Aga071.github.io/goit-react-hw-04-images/static/js/main.07d3183d.js",
+    "main.css": "//Aga071.github.io/goit-react-hw-04-images/static/css/main.0d38ca43.css",
+    "main.js": "//Aga071.github.io/goit-react-hw-04-images/static/js/main.7ca96549.js",
     "index.html": "//Aga071.github.io/goit-react-hw-04-images/index.html",
-    "main.7acaea2f.css.map": "//Aga071.github.io/goit-react-hw-04-images/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "//Aga071.github.io/goit-react-hw-04-images/static/js/main.07d3183d.js.map"
+    "main.0d38ca43.css.map": "//Aga071.github.io/goit-react-hw-04-images/static/css/main.0d38ca43.css.map",
+    "main.7ca96549.js.map": "//Aga071.github.io/goit-react-hw-04-images/static/js/main.7ca96549.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.0d38ca43.css",
+    "static/js/main.7ca96549.js"
   ]
 }
